@@ -1,8 +1,7 @@
 {
-  "max_version": null,
-  "location": null,
-  "lang": "pony",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-pony",
   "semver": false,
-  "min_version": null
+  "lang": "pony",
+  "location": null,
+  "parser_version": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7"
 }
